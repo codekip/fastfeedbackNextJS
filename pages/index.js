@@ -11,7 +11,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          My fast feedback site!
+          My fast feedback site
         </h1>
 
         <p className={styles.description}>
